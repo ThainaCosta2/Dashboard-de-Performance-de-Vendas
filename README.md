@@ -1,4 +1,4 @@
-# Dashboard-de-Performance-de-Vendas
+# Dashboard de Performance de Vendas
 
 Este repositório contém um projeto que utiliza dados da Olist, uma plataforma que conecta lojistas aos principais marketplaces do Brasil. O objetivo é importar, tratar e analisar quatro diferentes bases de dados utilizando o Power Query no Power BI, fornecendo insights valiosos sobre vendas e comportamento do cliente.
 
