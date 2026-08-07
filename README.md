@@ -1,6 +1,6 @@
 # Dashboard de Performance de Vendas 📊📉
 
-Esse projeto utiliza dados da Olist, uma plataforma que conecta lojistas aos principais marketplaces do Brasil. O objetivo é importar, tratar e analisar quatro diferentes bases de dados utilizando o Power Query no Power BI, fornecendo insights valiosos sobre vendas e comportamento do cliente.
+Esse projeto utiliza dados da Olist, uma plataforma que conecta lojistas aos principais marketplaces do Brasil. O objetivo é importar, tratar e analisar quatro diferentes bases de dados utilizando o Power Query no Power BI, fornecendo insights valiosos sobre vendas e comportamento do cliente
 
 <div>
 <img src="Olist/Power-Query.png" width="700px" />
