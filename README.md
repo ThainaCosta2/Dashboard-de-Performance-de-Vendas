@@ -10,7 +10,7 @@ Esse projeto utiliza dados da Olist, uma plataforma que conecta lojistas aos pri
 
 As seguintes bases de dados foram importadas:
 
-1. **Pedidos (xlsx)**: Informações sobre todos os pedidos realizados.
+1. **Pedidos (xlsx)**: Informações sobre todos os pedidos realizados
 2. **Itens Pedidos (csv)**: Itens específicos de cada pedido.
 3. **Pagamentos (xml)**: Detalhes dos pagamentos realizados.
 4. **Produtos (json)**: Informações detalhadas sobre os produtos vendidos.
